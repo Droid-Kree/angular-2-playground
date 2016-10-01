@@ -1,0 +1,19 @@
+.btn, .input > input {
+  border-radius: 5px;
+}
+.btn-login {
+  background-color: green;
+}
+.btn-register {
+  background-color: blueviolet;
+}
+.btns, input {
+  margin: 5px;
+}
+.input {
+  width: 100px;
+}
+:host {
+  left: 50%;
+  top: 50%;
+}
